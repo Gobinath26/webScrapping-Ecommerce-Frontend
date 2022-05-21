@@ -1,0 +1,31 @@
+
+.product-img{
+  width:380px;
+  height:450px;
+  object-fit:contain;
+  }
+  .product-container{
+    width: 380px;
+    height:min-content;
+  }
+  
+  .product-tittle{
+    margin:0;
+    font-size: 24px;
+  }
+  
+  .product-rating{
+    font-size: 20px;
+  }
+  .product-list{
+    display:flex;
+    gap:16px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+
+  .route-container{
+    margin:20px;
+
+  }
